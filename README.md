@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Voice Recognition
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app uses the SpeechRecognition API to listen to the user and transcribe the result into text.
 
 ## Available Scripts
 
