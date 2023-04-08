@@ -1,6 +1,5 @@
 import { FaMicrophoneAlt } from 'react-icons/fa'
 import CloseIcon from '@mui/icons-material/Close'
-import IconButton from '@mui/material/IconButton'
 import useVoiceRecognition from 'hooks/useVoiceRecognition'
 import { Microfone, Text, Container, TextWrapper, CloseButton } from './styled'
 import NotSupported from 'components/NotSupported'
